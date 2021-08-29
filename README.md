@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!--## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/satymshrma/satymshrma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,33 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
+### Hi 👋
+
+I'm Satyam. I'm an undergraduate student, studying computer science in Dehradun, Uttrakhand, India.
+
+I like to work with front end technologies. I like to work on software that directly interacts with the people using it.
+
+I have a vested interest in UX/UI and am a hobby/novice/aspirant game dev.
+
+I am currently studying web based technologies.
+
+I also like anime, xainxia, to draw & make 3D models in Blender.
+
+📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, else, mail me at satyamsharma.geu@gmail.com
+
+Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_
+<!--
+**satymshrma/satymshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
