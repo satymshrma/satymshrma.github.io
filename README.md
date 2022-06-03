@@ -38,16 +38,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -->
 ### Hi 👋
 
-I'm Satyam. I'm an undergraduate student, studying computer science in Dehradun, Uttrakhand, India.
+I'm Satyam. I'm an undergraduate student, currently working my way towards a bachelor's degree in computer science and engineering with honors in machine learning and AI. I'm based in Dehradun, Uttrakhand, India. 
 
-I like to work with front end technologies. I like to work on software that directly interacts with the people using it.
-
-I have a vested interest in UX/UI and am a hobby/novice/aspirant game dev.
-
+I like to work with front end technologies, UX and UI. Software that directly interacts with people.
 I am currently studying web based technologies.
 
-I also like anime, xainxia, to draw & make 3D models in Blender.
+I am also actively looking for a job.
 
 📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, else, mail me at satyamsharma.geu@gmail.com
 
-Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_
+<!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_>
