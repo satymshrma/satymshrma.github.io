@@ -47,4 +47,4 @@ I am also actively looking for a job.
 
 📫 You can reach me at [@satymshrma](https://t.me/satymshrma) on Telegram, else, mail me at satyamsharma.geu@gmail.com
 
-<!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_>
+<!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_-->
