@@ -44,5 +44,5 @@ I have some experience in big data, machine learning, and AI technologies, and I
 
 I am currently studying AI based technologies.
 
-📫 You can reach me at @satymshrma on Telegram, or mail me at satymshrma+DMs@gmail.com
+📫 You can reach me at @satymshrma on Telegram @satymshrma, or mail me at satymshrma+DMs@gmail.com
 <!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_-->
