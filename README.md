@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
 I'm a full stack and machine learning developer, & have experience working with big data & web-dev.
-I like working with and making user-focused software.
+I like working with and making user-focused software, and backend development.
 
 I'm currently aiming to grow as a Machine Learning engineer & learning emerging AI technologies like LLMs & Stable Diffusion.
 
