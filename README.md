@@ -36,13 +36,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
-### Hi 👋
 
-I'm Satyam. I'm a Software Engineer from Dehradun, Uttrakhand, India.
+# Hi 👋
 
-I have some experience in big data, machine learning, and AI technologies, and I like working with user-focused software. I'm currently aiming to grow as a machine learning engineer.
+## I'm Satyam.
 
-I am currently studying AI based technologies.
+I'm a Software Engineer from Dehradun, Uttrakhand, India.
 
-📫 You can reach me at @satymshrma on Telegram @satymshrma, or mail me at satymshrma+DMs@gmail.com
+I'm a full stack and machine learning developer, & have experience working with big data & web-dev.
+I like working with and making user-focused software.
+
+I'm currently aiming to grow as a Machine Learning engineer & learning emerging AI technologies like LLMs & Stable Diffusion.
+
+I also like to game dev at the side 🕹
+
+📫 You can reach me at [satymshrma+DMs@gmail.com](mailto:satyamshrma+DMs@gmail.com)
+
 <!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_-->
