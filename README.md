@@ -39,17 +39,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Hi 👋
 
-## I'm Satyam.
+## I'm Satyam Sharma.
 
-I'm a Software Engineer from Dehradun, Uttrakhand, India.
+I'm a Full-Stack Software Engineer with a Bachelor of Technology (B.Tech.) in Computer Science and Engineering, specializing in Machine Learning & Artificial Intelligence.
+I have 2 years of professional work experience as a Full-Stack developer, & specialize in the React ecosystem.
 
-I'm a full stack and machine learning developer, & have experience working with big data & web-dev.
-I like working with and making user-focused software, and working on front-end development.
+I'm passionate about developing user-focused software, tackling new challenges, & collaborating with others to create impactful solutions to real-world problems.
+I'm currently developing my skills in the field of web & app full-stack development, and also learning about new emerging AI technologies like LLMs and Stable Diffusion.
 
-I'm currently aiming to grow as a Machine Learning engineer & learning emerging AI technologies like LLMs & Stable Diffusion.
+I also like to game dev at the side. 🕹
 
-I also like to game dev at the side 🕹
-
-📫 You can reach me at [satymshrma+DMs@gmail.com](mailto:satyamshrma+DMs@gmail.com)
+📫 You can reach me at [satymshrma@gmail.com](mailto:satymshrma@gmail.com)
 
 <!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_-->
