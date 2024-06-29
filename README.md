@@ -49,6 +49,6 @@ I'm currently developing my skills in the field of web & app full-stack developm
 
 I also like to game dev at the side. 🕹
 
-📫 You can reach me at [satymshrma@gmail.com](mailto:satymshrma@gmail.com)
+📫 You can reach me at [satymshrma+DMs@gmail.com](mailto:satymshrma+DMs@gmail.com)
 
 <!--Below are my repositories. _(They are a bit messy, and at some places a little incomplete. But I'm working on it, so just bear with me for the while. <3)_-->
