@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## I'm Satyam Sharma.
 
 I'm a Full-Stack Software Engineer with a Bachelor of Technology (B.Tech.) in Computer Science and Engineering, specializing in Machine Learning & Artificial Intelligence.
-I have 2 years of professional work experience as a Full-Stack developer, & specialize in the React ecosystem.
+I have 2 years of professional work experience as a Full-Stack developer, specializing in the Typescript, React/Nodejs ecosystem.
 
 I'm passionate about developing user-focused software, tackling new challenges, & collaborating with others to create impactful solutions to real-world problems.
 I'm currently developing my skills in the field of web & app full-stack development, and also learning about new emerging AI technologies like LLMs and Stable Diffusion.
